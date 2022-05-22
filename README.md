@@ -1,3 +1,3 @@
-# GET_Couurse
+# GIT_Course
 ## welcome
 
